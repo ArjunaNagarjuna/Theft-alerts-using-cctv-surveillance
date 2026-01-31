@@ -1,0 +1,21 @@
+/* Dashboard Theme */
+body {
+    background-color: #f8fafc;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.stMetricValue {
+    color: #00bfa6 !important;
+    font-weight: bold;
+}
+
+.stButton>button {
+    background-color: #00bfa6 !important;
+    color: white !important;
+    border-radius: 10px !important;
+    border: none !important;
+}
+
+h1, h2, h3, h4 {
+    color: #0f2027;
+}
